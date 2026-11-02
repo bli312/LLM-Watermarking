@@ -1,0 +1,58 @@
+kirchenbauer2023watermark:
+  type: article
+  title: "A Watermark for Large Language Models"
+  author:
+    - "John Kirchenbauer"
+    - "Jonas Geiping"
+    - "Yuxin Wen"
+    - "Jonathan Katz"
+    - "Ian Miers"
+    - "Tom Goldstein"
+  date: 2023-01-24
+  publisher: "arXiv"
+  serial-number:
+    doi: "10.48550/arXiv.2301.10226"
+
+kuditipudi2023robust:
+  type: article
+  title: "Robust Distortion-free Watermarks for Language Models"
+  author:
+    - "Rohith Kuditipudi"
+    - "John Thickstun"
+    - "Tatsunori Hashimoto"
+    - "Percy Liang"
+  date: 2023-07-28
+  publisher: "arXiv"
+  serial-number:
+    doi: "10.48550/arXiv.2307.15593"
+
+jovanovic2024stealing:
+  type: article
+  title: "Watermark Stealing in Large Language Models"
+  author:
+    - "Nikola Jovanovic"
+    - "Robin Staab"
+    - "Martin Vechev"
+  date: 2024-02-29
+  publisher: "arXiv"
+  serial-number:
+    doi: "10.48550/arXiv.2402.19361"
+
+abdelnabi2020adversarial:
+  type: article
+  title: "Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding"
+  author:
+    - "Sahar Abdelnabi"
+    - "Mario Fritz"
+  date: 2020-09-07
+  publisher: "arXiv"
+  serial-number:
+    doi: "10.48550/arXiv.2009.03015"
+
+prematureabstractionvideo:
+  type: web
+  title: "How to Watermark Text (LLM Watermarking Explained)"
+  author:
+    - "Premature Abstraction"
+  publisher: "YouTube"
+  url: "https://youtu.be/55LXhbPjyeM"
